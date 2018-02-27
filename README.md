@@ -1,2 +1,3 @@
 # selecao-devjr-api
-Projeto desenvolvido para seleção de desenvolvedor júnior.
+
+Projeto desenvolvido para seleção de Desenvolvedor Júnior.
