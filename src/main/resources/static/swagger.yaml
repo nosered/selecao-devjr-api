@@ -3,7 +3,7 @@ info:
   description: "Esta é a documentação da API REST desenvolvida no projeto para a seleção de Desenvolvedor Júnior."
   version: "1.0.0"
   title: "Seleção DevJr"
-host: "devjr-api.heroku.app"
+host: "devjr-api.herokuapp.com"
 basePath: "/"
 paths:
   /pessoas:
